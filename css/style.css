@@ -15,8 +15,8 @@
     --bg-color: #1f242d;
     --second-bg-color: #323946;
     --text-color: #fff;
-    /* --main-color: #0ef; */
-    --main-color: #a37cf0;
+    --main-color: #0ef;
+    /* --main-color: #a37cf0; */
 }
 
 html {
@@ -390,7 +390,7 @@ span {
 .skill-main h3 {
     margin-bottom: 2.5rem;
     /* font-size: var(--text-color); */
-    color: #a37cf0;
+    color: #0ef;
     text-align: center;
     font-size: 2.8rem;
 
